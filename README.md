@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#I'm a 3rd year computer science student with an interest in full-stack/backend software engineering
+## I'm a 3rd year computer science student with an interest in full-stack/backend software engineering
 
-#What I know:
+## What I know:
 &nbsp;
 
 &nbsp;
@@ -15,7 +15,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-#How to reach me:
+## How to reach me:
 &nbsp;
 
 &nbsp;
